@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu">
+
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item android:id="@+id/edit"
+        android:icon="@drawable/ic_mode_edit_white_24dp"
+        android:title="Edit Name"
+        app:showAsAction="always"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/bluetooth"
+        android:icon="@drawable/ic_settings_bluetooth_white_24dp"
+        android:title="Bluetooth Settings"
+        app:showAsAction="always"/>
+
+    <!-- Chewie :( -->
+    <item android:id="@+id/paw"
+        android:icon="@drawable/ic_pets_white_24dp"
+        android:title="Born to drool"
+        app:showAsAction="always"/>
+
+</menu>
