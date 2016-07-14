@@ -6,34 +6,47 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.AppCompatSpinner;
 import android.text.Html;
 import android.text.Spanned;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.EditText;
-import android.widget.LinearLayout;
+import android.widget.ImageButton;
+import android.widget.RelativeLayout;
 import android.widget.ScrollView;
+import android.widget.Spinner;
 import android.widget.TextView;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity 
         implements Bluetooth.OnConnectedListener,
 	Bluetooth.OnReceivedMessageListener,
-        Bluetooth.OnConnectionClosedListener {
+        Bluetooth.OnConnectionClosedListener,
+        AdapterView.OnItemSelectedListener{
     private Bluetooth bt;
     private EditText entry;
-    private Button sendButton;
+    private ImageButton sendButton;
     private ScrollView scroll;
     private TextView terminal;
     private boolean connected;
+    private Spinner spinner;
+    private RelativeLayout main;
+    private String spinnerKey;
+    private List<String> deviceNameList;
 
     /*
 
-    ** Overridden methods, Android first, BT library second **
+    ** Overridden methods **
 
     */
 
@@ -43,13 +56,46 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.main);
 	
 	    entry = (EditText) findViewById(R.id.edittext);
-	    sendButton = (Button) findViewById(R.id.sendbutton);
+	    sendButton = (ImageButton) findViewById(R.id.sendbutton);
         scroll = (ScrollView) findViewById(R.id.terminalsv);
         terminal = (TextView) findViewById(R.id.terminal);
+        main = (RelativeLayout) findViewById(R.id.mainLayout);
+        spinnerKey = "Select Caramel device:";
 
         connected = false;
 
         firstRun();
+
+        String devname = "";
+        if (getSharedPreferences("PREFERENCE", MODE_PRIVATE).getString("devname", "Caramel") != null) {
+            devname = getSharedPreferences("PREFERENCE", MODE_PRIVATE).getString("devname", "Caramel");
+        }
+
+        spinner = new AppCompatSpinner(this);
+        RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
+                ViewGroup.LayoutParams.WRAP_CONTENT,
+                ViewGroup.LayoutParams.WRAP_CONTENT);
+        params.addRule(RelativeLayout.ALIGN_PARENT_RIGHT);
+        spinner.setLayoutParams(params);
+        spinner.setGravity(Gravity.TOP | Gravity.RIGHT);
+        spinner.setOnItemSelectedListener(this);
+        deviceNameList = new ArrayList<>();
+        deviceNameList.add(spinnerKey);
+        for (BluetoothDevice d : new Bluetooth().getPairedDevices()) {
+            deviceNameList.add(d.getName());
+        }
+        ArrayAdapter<String> deviceAdapter =
+                new ArrayAdapter<String>
+                        (this, android.R.layout.simple_spinner_item, deviceNameList);
+        deviceAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spinner.setAdapter(deviceAdapter);
+        spinner.setEnabled(false);
+        spinner.setVisibility(View.INVISIBLE);
+        main.addView(spinner);
+
+        if (!devname.equals("")) {
+            setName(devname);
+        }
     }
 
     @Override
@@ -98,38 +144,7 @@ public class MainActivity extends AppCompatActivity
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.edit:
-                AlertDialog.Builder alertDialog = new AlertDialog.Builder(MainActivity.this);
-                alertDialog.setTitle("Device Name");
-                alertDialog.setMessage("Enter name of Caramel device:");
-
-                final EditText input = new EditText(MainActivity.this);
-                LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
-                        LinearLayout.LayoutParams.MATCH_PARENT,
-                        LinearLayout.LayoutParams.MATCH_PARENT);
-                input.setLayoutParams(lp);
-                input.setHint("e.g. \"Caramel\" or \"SUPER MEGA CARAMELTRON VI\"");
-                input.setText(getSharedPreferences("PREFERENCE", MODE_PRIVATE).getString("devname", "Caramel"));
-                input.setPadding(input.getPaddingLeft(), input.getPaddingTop() + 36,
-                        input.getPaddingRight() + 36, input.getPaddingBottom());
-                alertDialog.setView(input);
-
-                alertDialog.setPositiveButton("OK",
-                        new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog, int which) {
-                                setName(input.getText().toString());
-                            }
-                        });
-
-                alertDialog.setNegativeButton("CANCEL",
-                        new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog, int which) {
-                                dialog.cancel();
-                            }
-                        });
-
-                alertDialog.show();
+                spinner.performClick();
                 return true;
 
             case R.id.bluetooth:
@@ -139,22 +154,36 @@ public class MainActivity extends AppCompatActivity
                 return true;
 
             case R.id.paw:
-                // User chose the "Settings" item, show the app settings UI...
+                AlertDialog.Builder builder = new AlertDialog.Builder(this)
+                    .setCancelable(false)
+                    .setNegativeButton("Close", null)
+                    .setView(getLayoutInflater().inflate(R.layout.chewie, null));
+                    //.setView(doggo);
+
+                AlertDialog alert = builder.create();
+                alert.show();
                 return true;
 
-            default:
-                // If we got here, the user's action was not recognized.
-                // Invoke the superclass to handle it.
-                return super.onOptionsItemSelected(item);
+            default: return super.onOptionsItemSelected(item);
 
         }
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu, menu);
         return true;
+    }
+
+    @Override
+    public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+        if (parent.getItemAtPosition(position).toString().equals(spinnerKey)) return;
+        setName(parent.getItemAtPosition(position).toString());
+    }
+
+    @Override
+    public void onNothingSelected(AdapterView<?> parent) {
+
     }
 
     /*
@@ -169,10 +198,6 @@ public class MainActivity extends AppCompatActivity
         String msg = entry.getText().toString();
         print("<font color=\"#009688\"><b>" + msg + "</b></font>");
         connect();
-    }
-
-    public void clearClick(View v) {
-        terminal.setText("");
     }
 
     /*
@@ -214,16 +239,8 @@ public class MainActivity extends AppCompatActivity
         });
     }
 
-    /*private void print(final Spanned s) {
-        runOnUiThread(new Runnable() {
-            @Override
-            public void run() {
-                terminal.append(s + "\n");
-            }
-        });
-    }*/
-
     private void setName(String name) {
+        System.out.println("Name set to " + name);
         getSharedPreferences("PREFERENCE", MODE_PRIVATE)
                 .edit()
                 .putString("devname", name)
@@ -241,12 +258,13 @@ public class MainActivity extends AppCompatActivity
     private void firstRun() {
         boolean isFirstRun =
                 getSharedPreferences("PREFERENCE", MODE_PRIVATE).getBoolean("isFirstRun", true);
-        if (isFirstRun){
+        if (isFirstRun) {
             new AlertDialog.Builder(this)
                     .setTitle("Welcome!")
                     .setMessage("Make sure you've successfully paired with your Caramel device. " +
                             "If not, go into your device's bluetooth settings. You should see a " +
-                            "device named Caramel (or whatever you named it). If you don't, it may display as series of mumbo" +
+                            "device named Caramel (or whatever you named it). If you don't see " +
+                            "it, it may display as series of mumbo" +
                             "jumbo letters and numbers. Select any of them. After you select it, " +
                             "it may finally display as Caramel. Enter the password you set. Make " +
                             "sure to select \"PIN contains letters or symbols\" if your password " +
@@ -271,7 +289,7 @@ public class MainActivity extends AppCompatActivity
 
             getSharedPreferences("PREFERENCE", MODE_PRIVATE)
                     .edit()
-                    .putString("devname", "Caramel")
+                    .putString("devname", deviceNameList.get(1))
                     .apply();
         }
     }

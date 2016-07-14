@@ -24,6 +24,10 @@
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_bluetooth_white_24dp.png"
     },
     {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_devices_other_white_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_devices_other_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -90,6 +94,10 @@
     {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_send_black_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_send_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",

@@ -16,6 +16,10 @@
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_devices_other_white_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-mdpi\\ic_devices_other_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_send_black_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-mdpi\\ic_send_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",

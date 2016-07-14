@@ -124,6 +124,10 @@
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doggo.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable\\doggo.png"
+    },
+    {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },

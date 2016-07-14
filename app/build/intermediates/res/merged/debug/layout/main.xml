@@ -1,38 +1,32 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/mainLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="top">
     
-    <Button
+    <ImageButton
         android:id="@+id/sendbutton"
 		android:layout_alignParentRight="true"
 		android:layout_alignParentBottom="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" 
 		android:enabled="true"
-		android:text="Send"
+		android:src="@drawable/ic_send_black_24dp"
 		android:onClick="sendClick"
-        />
-    
-    <Button
-        android:id="@+id/clearbutton"
-		android:layout_alignParentLeft="true"
-		android:layout_alignParentBottom="true"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" 
-		android:text="clear"
-		android:onClick="clearClick"
-        />
+		android:background="@null"
+		android:layout_marginBottom="4dp"
+		android:padding="16dp"
+		android:layout_margin="0dp" />
     
     <EditText
         android:id="@+id/edittext"
 		android:layout_toLeftOf="@id/sendbutton"
-		android:layout_toRightOf="@id/clearbutton"
 		android:layout_alignParentBottom="true"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
 		android:hint="Enter command here"
-        />
+		android:layout_marginLeft="12dp"
+		android:layout_marginBottom="4dp" />
     
     <ScrollView
         android:id="@+id/terminalsv"

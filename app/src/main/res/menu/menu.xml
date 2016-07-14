@@ -5,7 +5,7 @@
 
     <!-- "Mark Favorite", should appear as action button if possible -->
     <item android:id="@+id/edit"
-        android:icon="@drawable/ic_mode_edit_white_24dp"
+        android:icon="@drawable/ic_devices_other_white_24dp"
         android:title="Edit Name"
         app:showAsAction="always"/>
 

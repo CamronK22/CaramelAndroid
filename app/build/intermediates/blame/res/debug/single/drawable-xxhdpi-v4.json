@@ -40,6 +40,10 @@
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pets_white_24dp.png"
     },
     {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_send_black_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_devices_other_white_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_devices_other_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
