@@ -43,13 +43,14 @@
 
 		<TextView
 			android:id="@+id/terminal"
-	    	android:text=""
-	    	android:textSize="22sp"
-	    	android:paddingLeft="18dp"
-	    	android:layout_width="fill_parent"
-	    	android:layout_height="fill_parent"
-	    	android:gravity="bottom"
-			/>
+			android:text=""
+			android:textSize="22sp"
+			android:paddingLeft="18dp"
+			android:paddingRight="18dp"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="bottom"
+			android:enabled="true" />
 
     </ScrollView>
 

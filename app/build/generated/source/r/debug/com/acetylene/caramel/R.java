@@ -1763,7 +1763,10 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f02004a;
         public static final int abc_textfield_search_material=0x7f02004b;
         public static final int ic_launcher=0x7f02004c;
-        public static final int notification_template_icon_bg=0x7f02004d;
+        public static final int ic_mode_edit_white_24dp=0x7f02004d;
+        public static final int ic_pets_white_24dp=0x7f02004e;
+        public static final int ic_settings_bluetooth_white_24dp=0x7f02004f;
+        public static final int notification_template_icon_bg=0x7f020050;
     }
     public static final class id {
         public static final int action0=0x7f0a0059;
@@ -1786,6 +1789,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0a0033;
         public static final int always=0x7f0a001d;
         public static final int beginning=0x7f0a001a;
+        public static final int bluetooth=0x7f0a0068;
         public static final int bottom=0x7f0a0022;
         public static final int buttonPanel=0x7f0a002e;
         public static final int cancel_action=0x7f0a005a;
@@ -1799,6 +1803,7 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0a0043;
         public static final int default_activity_button=0x7f0a002a;
         public static final int disableHome=0x7f0a000c;
+        public static final int edit=0x7f0a0067;
         public static final int edit_query=0x7f0a0047;
         public static final int edittext=0x7f0a0056;
         public static final int end=0x7f0a001b;
@@ -1816,12 +1821,14 @@ containing a value of this type.
         public static final int listMode=0x7f0a0009;
         public static final int list_item=0x7f0a002b;
         public static final int media_actions=0x7f0a005c;
+        public static final int menu=0x7f0a0066;
         public static final int middle=0x7f0a001c;
         public static final int multiply=0x7f0a0014;
         public static final int never=0x7f0a0020;
         public static final int none=0x7f0a000e;
         public static final int normal=0x7f0a000a;
         public static final int parentPanel=0x7f0a0030;
+        public static final int paw=0x7f0a0069;
         public static final int progress_circular=0x7f0a0005;
         public static final int progress_horizontal=0x7f0a0006;
         public static final int radio=0x7f0a003e;
@@ -1915,6 +1922,9 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f030024;
         public static final int select_dialog_singlechoice_material=0x7f030025;
         public static final int support_simple_spinner_dropdown_item=0x7f030026;
+    }
+    public static final class menu {
+        public static final int menu=0x7f0c0000;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f050000;

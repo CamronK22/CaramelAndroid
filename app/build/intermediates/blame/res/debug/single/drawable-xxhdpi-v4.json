@@ -4,6 +4,10 @@
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_settings_bluetooth_white_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_bluetooth_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -24,8 +28,16 @@
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mode_edit_white_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mode_edit_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
         "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pets_white_24dp.png",
+        "source": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pets_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",

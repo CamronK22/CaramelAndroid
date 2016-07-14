@@ -472,7 +472,10 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f020049
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f02004a
 int drawable abc_textfield_search_material 0x7f02004b
 int drawable ic_launcher 0x7f02004c
-int drawable notification_template_icon_bg 0x7f02004d
+int drawable ic_mode_edit_white_24dp 0x7f02004d
+int drawable ic_pets_white_24dp 0x7f02004e
+int drawable ic_settings_bluetooth_white_24dp 0x7f02004f
+int drawable notification_template_icon_bg 0x7f020050
 int id action0 0x7f0a0059
 int id action_bar 0x7f0a0045
 int id action_bar_activity_content 0x7f0a0000
@@ -493,6 +496,7 @@ int id add 0x7f0a0013
 int id alertTitle 0x7f0a0033
 int id always 0x7f0a001d
 int id beginning 0x7f0a001a
+int id bluetooth 0x7f0a0068
 int id bottom 0x7f0a0022
 int id buttonPanel 0x7f0a002e
 int id cancel_action 0x7f0a005a
@@ -506,6 +510,7 @@ int id customPanel 0x7f0a0039
 int id decor_content_parent 0x7f0a0043
 int id default_activity_button 0x7f0a002a
 int id disableHome 0x7f0a000c
+int id edit 0x7f0a0067
 int id edit_query 0x7f0a0047
 int id edittext 0x7f0a0056
 int id end 0x7f0a001b
@@ -523,12 +528,14 @@ int id line3 0x7f0a0062
 int id listMode 0x7f0a0009
 int id list_item 0x7f0a002b
 int id media_actions 0x7f0a005c
+int id menu 0x7f0a0066
 int id middle 0x7f0a001c
 int id multiply 0x7f0a0014
 int id never 0x7f0a0020
 int id none 0x7f0a000e
 int id normal 0x7f0a000a
 int id parentPanel 0x7f0a0030
+int id paw 0x7f0a0069
 int id progress_circular 0x7f0a0005
 int id progress_horizontal 0x7f0a0006
 int id radio 0x7f0a003e
@@ -618,6 +625,7 @@ int layout select_dialog_item_material 0x7f030023
 int layout select_dialog_multichoice_material 0x7f030024
 int layout select_dialog_singlechoice_material 0x7f030025
 int layout support_simple_spinner_dropdown_item 0x7f030026
+int menu menu 0x7f0c0000
 int string abc_action_bar_home_description 0x7f050000
 int string abc_action_bar_home_description_format 0x7f050001
 int string abc_action_bar_home_subtitle_description_format 0x7f050002

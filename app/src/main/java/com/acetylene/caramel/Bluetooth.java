@@ -38,17 +38,18 @@ public class Bluetooth {
         socket.close();
     }
 
-    public void connectByName(String name) {
+    public boolean connectByName(String name) {
         for (BluetoothDevice blueDevice : bluetoothAdapter.getBondedDevices()) {
             System.out.println("Device = " + blueDevice.getName() + "   Address = " + blueDevice.getAddress());
             if (blueDevice.getName().equals(name)) {
                 System.out.println("Found it!");
                 connect(blueDevice.getAddress());
-                return;
+                return true;
             } else {
                 System.out.println("Oops, wrong one.");
             }
         }
+        return false;
     }
 
     public void sendMessage(String msg){
