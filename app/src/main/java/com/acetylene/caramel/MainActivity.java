@@ -64,8 +64,6 @@ public class MainActivity extends AppCompatActivity
 
         connected = false;
 
-        firstRun();
-
         String devname = "";
         if (getSharedPreferences("PREFERENCE", MODE_PRIVATE).getString("devname", "Caramel") != null) {
             devname = getSharedPreferences("PREFERENCE", MODE_PRIVATE).getString("devname", "Caramel");
@@ -96,6 +94,8 @@ public class MainActivity extends AppCompatActivity
         if (!devname.equals("")) {
             setName(devname);
         }
+
+        firstRun();
     }
 
     @Override

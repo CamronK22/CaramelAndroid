@@ -2310,35 +2310,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.acetylene.caramel:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.acetylene.caramel:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.acetylene.caramel:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.acetylene.caramel:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.acetylene.caramel:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.acetylene.caramel:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.acetylene.caramel:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.acetylene.caramel:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.acetylene.caramel:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.acetylene.caramel:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.acetylene.caramel:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.acetylene.caramel:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.acetylene.caramel:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.acetylene.caramel:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.acetylene.caramel:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.acetylene.caramel:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.acetylene.caramel:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.acetylene.caramel:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.acetylene.caramel:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.acetylene.caramel:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.acetylene.caramel:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.acetylene.caramel:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.acetylene.caramel:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.acetylene.caramel:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.acetylene.caramel:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.acetylene.caramel:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.acetylene.caramel:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.acetylene.caramel:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.acetylene.caramel:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.acetylene.caramel2:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.acetylene.caramel2:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.acetylene.caramel2:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.acetylene.caramel2:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.acetylene.caramel2:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.acetylene.caramel2:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.acetylene.caramel2:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.acetylene.caramel2:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.acetylene.caramel2:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.acetylene.caramel2:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.acetylene.caramel2:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.acetylene.caramel2:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.acetylene.caramel2:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.acetylene.caramel2:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.acetylene.caramel2:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.acetylene.caramel2:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.acetylene.caramel2:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.acetylene.caramel2:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.acetylene.caramel2:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.acetylene.caramel2:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.acetylene.caramel2:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.acetylene.caramel2:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.acetylene.caramel2:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.acetylene.caramel2:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.acetylene.caramel2:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.acetylene.caramel2:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.acetylene.caramel2:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.acetylene.caramel2:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.acetylene.caramel2:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2381,17 +2381,17 @@ containing a value of this type.
             0x7f01005a
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#background}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:background
+          @attr name com.acetylene.caramel2:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2399,11 +2399,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.acetylene.caramel:backgroundSplit
+          @attr name com.acetylene.caramel2:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2411,11 +2411,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.acetylene.caramel:backgroundStacked
+          @attr name com.acetylene.caramel2:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2427,11 +2427,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetEnd
+          @attr name com.acetylene.caramel2:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2443,11 +2443,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetEndWithActions
+          @attr name com.acetylene.caramel2:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2459,11 +2459,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetLeft
+          @attr name com.acetylene.caramel2:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2475,11 +2475,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetRight
+          @attr name com.acetylene.caramel2:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2491,11 +2491,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetStart
+          @attr name com.acetylene.caramel2:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2507,21 +2507,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetStartWithNavigation
+          @attr name com.acetylene.caramel2:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:customNavigationLayout
+          @attr name com.acetylene.caramel2:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2539,21 +2539,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:displayOptions
+          @attr name com.acetylene.caramel2:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:divider
+          @attr name com.acetylene.caramel2:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2565,11 +2565,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:elevation
+          @attr name com.acetylene.caramel2:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#height}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2581,11 +2581,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:height
+          @attr name com.acetylene.caramel2:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2595,51 +2595,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:hideOnContentScroll
+          @attr name com.acetylene.caramel2:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:homeAsUpIndicator
+          @attr name com.acetylene.caramel2:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:homeLayout
+          @attr name com.acetylene.caramel2:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:icon
+          @attr name com.acetylene.caramel2:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:indeterminateProgressStyle
+          @attr name com.acetylene.caramel2:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2651,21 +2651,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:itemPadding
+          @attr name com.acetylene.caramel2:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:logo
+          @attr name com.acetylene.caramel2:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2679,21 +2679,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:navigationMode
+          @attr name com.acetylene.caramel2:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:popupTheme
+          @attr name com.acetylene.caramel2:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2705,21 +2705,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:progressBarPadding
+          @attr name com.acetylene.caramel2:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:progressBarStyle
+          @attr name com.acetylene.caramel2:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2729,21 +2729,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:subtitle
+          @attr name com.acetylene.caramel2:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:subtitleTextStyle
+          @attr name com.acetylene.caramel2:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#title}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2753,17 +2753,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:title
+          @attr name com.acetylene.caramel2:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:titleTextStyle
+          @attr name com.acetylene.caramel2:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2815,12 +2815,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.acetylene.caramel:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.acetylene.caramel:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.acetylene.caramel:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.acetylene.caramel:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.acetylene.caramel:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.acetylene.caramel:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.acetylene.caramel2:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.acetylene.caramel2:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.acetylene.caramel2:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.acetylene.caramel2:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.acetylene.caramel2:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.acetylene.caramel2:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2834,17 +2834,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#background}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:background
+          @attr name com.acetylene.caramel2:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2852,21 +2852,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.acetylene.caramel:backgroundSplit
+          @attr name com.acetylene.caramel2:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:closeItemLayout
+          @attr name com.acetylene.caramel2:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#height}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2878,27 +2878,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:height
+          @attr name com.acetylene.caramel2:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:subtitleTextStyle
+          @attr name com.acetylene.caramel2:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:titleTextStyle
+          @attr name com.acetylene.caramel2:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2907,8 +2907,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.acetylene.caramel:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.acetylene.caramel:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.acetylene.caramel2:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.acetylene.caramel2:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2917,17 +2917,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:expandActivityOverflowButtonDrawable
+          @attr name com.acetylene.caramel2:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2937,7 +2937,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:initialActivityCount
+          @attr name com.acetylene.caramel2:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2947,11 +2947,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.acetylene.caramel:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.acetylene.caramel:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.acetylene.caramel:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.acetylene.caramel:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.acetylene.caramel:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.acetylene.caramel2:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.acetylene.caramel2:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.acetylene.caramel2:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.acetylene.caramel2:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.acetylene.caramel2:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2971,53 +2971,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonPanelSideLayout
+          @attr name com.acetylene.caramel2:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:listItemLayout
+          @attr name com.acetylene.caramel2:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:listLayout
+          @attr name com.acetylene.caramel2:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:multiChoiceItemLayout
+          @attr name com.acetylene.caramel2:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:singleChoiceItemLayout
+          @attr name com.acetylene.caramel2:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatImageView.
@@ -3027,7 +3027,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.acetylene.caramel:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.acetylene.caramel2:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -3042,13 +3042,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:srcCompat
+          @attr name com.acetylene.caramel2:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -3058,9 +3058,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.acetylene.caramel:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.acetylene.caramel:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.acetylene.caramel:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.acetylene.caramel2:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.acetylene.caramel2:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.acetylene.caramel2:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -3077,17 +3077,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:tickMark
+          @attr name com.acetylene.caramel2:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -3098,11 +3098,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:tickMarkTint
+          @attr name com.acetylene.caramel2:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -3119,7 +3119,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:tickMarkTintMode
+          @attr name com.acetylene.caramel2:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3129,7 +3129,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.acetylene.caramel:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.acetylene.caramel2:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3144,14 +3144,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.acetylene.caramel:textAllCaps
+          @attr name com.acetylene.caramel2:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -3160,121 +3160,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.acetylene.caramel:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.acetylene.caramel:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.acetylene.caramel:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.acetylene.caramel:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.acetylene.caramel:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.acetylene.caramel:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.acetylene.caramel:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.acetylene.caramel:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.acetylene.caramel:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.acetylene.caramel:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.acetylene.caramel:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.acetylene.caramel:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.acetylene.caramel:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.acetylene.caramel:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.acetylene.caramel:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.acetylene.caramel:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.acetylene.caramel:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.acetylene.caramel:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.acetylene.caramel:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.acetylene.caramel:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.acetylene.caramel:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.acetylene.caramel:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.acetylene.caramel:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.acetylene.caramel:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.acetylene.caramel:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.acetylene.caramel:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.acetylene.caramel:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.acetylene.caramel:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.acetylene.caramel:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.acetylene.caramel:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.acetylene.caramel:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.acetylene.caramel:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.acetylene.caramel:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.acetylene.caramel:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.acetylene.caramel:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.acetylene.caramel2:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.acetylene.caramel2:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.acetylene.caramel2:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.acetylene.caramel2:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.acetylene.caramel2:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.acetylene.caramel2:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.acetylene.caramel2:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.acetylene.caramel2:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.acetylene.caramel2:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.acetylene.caramel2:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.acetylene.caramel2:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.acetylene.caramel2:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.acetylene.caramel2:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.acetylene.caramel2:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.acetylene.caramel2:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.acetylene.caramel2:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.acetylene.caramel2:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.acetylene.caramel2:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.acetylene.caramel2:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.acetylene.caramel2:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.acetylene.caramel2:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.acetylene.caramel2:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.acetylene.caramel2:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.acetylene.caramel2:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.acetylene.caramel2:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.acetylene.caramel2:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.acetylene.caramel2:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.acetylene.caramel2:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.acetylene.caramel2:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.acetylene.caramel2:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.acetylene.caramel2:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.acetylene.caramel2:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.acetylene.caramel2:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.acetylene.caramel2:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.acetylene.caramel2:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.acetylene.caramel:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.acetylene.caramel:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.acetylene.caramel:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.acetylene.caramel:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.acetylene.caramel:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.acetylene.caramel:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.acetylene.caramel:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.acetylene.caramel:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.acetylene.caramel:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.acetylene.caramel:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.acetylene.caramel:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.acetylene.caramel:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.acetylene.caramel:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.acetylene.caramel:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.acetylene.caramel:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.acetylene.caramel:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.acetylene.caramel:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.acetylene.caramel:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.acetylene.caramel:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.acetylene.caramel:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.acetylene.caramel:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.acetylene.caramel:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.acetylene.caramel:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.acetylene.caramel:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.acetylene.caramel:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.acetylene.caramel:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.acetylene.caramel:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.acetylene.caramel:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.acetylene.caramel:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.acetylene.caramel:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.acetylene.caramel:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.acetylene.caramel:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.acetylene.caramel:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.acetylene.caramel:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.acetylene.caramel:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.acetylene.caramel:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.acetylene.caramel:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.acetylene.caramel:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.acetylene.caramel:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.acetylene.caramel:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.acetylene.caramel:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.acetylene.caramel:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.acetylene.caramel:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.acetylene.caramel:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.acetylene.caramel:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.acetylene.caramel:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.acetylene.caramel:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.acetylene.caramel:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.acetylene.caramel:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.acetylene.caramel:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.acetylene.caramel:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.acetylene.caramel:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.acetylene.caramel:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.acetylene.caramel:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.acetylene.caramel:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.acetylene.caramel:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.acetylene.caramel:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.acetylene.caramel:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.acetylene.caramel:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.acetylene.caramel:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.acetylene.caramel:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.acetylene.caramel:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.acetylene.caramel:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.acetylene.caramel:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.acetylene.caramel:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.acetylene.caramel:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.acetylene.caramel:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.acetylene.caramel:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.acetylene.caramel:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.acetylene.caramel:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.acetylene.caramel:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.acetylene.caramel:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.acetylene.caramel:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.acetylene.caramel:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.acetylene.caramel:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.acetylene.caramel:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.acetylene.caramel:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.acetylene.caramel:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.acetylene.caramel2:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.acetylene.caramel2:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.acetylene.caramel2:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.acetylene.caramel2:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.acetylene.caramel2:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.acetylene.caramel2:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.acetylene.caramel2:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.acetylene.caramel2:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.acetylene.caramel2:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.acetylene.caramel2:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.acetylene.caramel2:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.acetylene.caramel2:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.acetylene.caramel2:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.acetylene.caramel2:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.acetylene.caramel2:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.acetylene.caramel2:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.acetylene.caramel2:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.acetylene.caramel2:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.acetylene.caramel2:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.acetylene.caramel2:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.acetylene.caramel2:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.acetylene.caramel2:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.acetylene.caramel2:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.acetylene.caramel2:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.acetylene.caramel2:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.acetylene.caramel2:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.acetylene.caramel2:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.acetylene.caramel2:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.acetylene.caramel2:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.acetylene.caramel2:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.acetylene.caramel2:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.acetylene.caramel2:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.acetylene.caramel2:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.acetylene.caramel2:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.acetylene.caramel2:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.acetylene.caramel2:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.acetylene.caramel2:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.acetylene.caramel2:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.acetylene.caramel2:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.acetylene.caramel2:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.acetylene.caramel2:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.acetylene.caramel2:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.acetylene.caramel2:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.acetylene.caramel2:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.acetylene.caramel2:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.acetylene.caramel2:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.acetylene.caramel2:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.acetylene.caramel2:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.acetylene.caramel2:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.acetylene.caramel2:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.acetylene.caramel2:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.acetylene.caramel2:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.acetylene.caramel2:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.acetylene.caramel2:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.acetylene.caramel2:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.acetylene.caramel2:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.acetylene.caramel2:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.acetylene.caramel2:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.acetylene.caramel2:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.acetylene.caramel2:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.acetylene.caramel2:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.acetylene.caramel2:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.acetylene.caramel2:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.acetylene.caramel2:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.acetylene.caramel2:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.acetylene.caramel2:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.acetylene.caramel2:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.acetylene.caramel2:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.acetylene.caramel2:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.acetylene.caramel2:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.acetylene.caramel2:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.acetylene.caramel2:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.acetylene.caramel2:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.acetylene.caramel2:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.acetylene.caramel2:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.acetylene.caramel2:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.acetylene.caramel2:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.acetylene.caramel2:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -3424,37 +3424,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010099, 0x7f01009a, 0x7f01009b
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarDivider
+          @attr name com.acetylene.caramel2:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarItemBackground
+          @attr name com.acetylene.caramel2:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarPopupTheme
+          @attr name com.acetylene.caramel2:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3474,111 +3474,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:actionBarSize
+          @attr name com.acetylene.caramel2:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarSplitStyle
+          @attr name com.acetylene.caramel2:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarStyle
+          @attr name com.acetylene.caramel2:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarTabBarStyle
+          @attr name com.acetylene.caramel2:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarTabStyle
+          @attr name com.acetylene.caramel2:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarTabTextStyle
+          @attr name com.acetylene.caramel2:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarTheme
+          @attr name com.acetylene.caramel2:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionBarWidgetTheme
+          @attr name com.acetylene.caramel2:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionButtonStyle
+          @attr name com.acetylene.caramel2:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionDropDownStyle
+          @attr name com.acetylene.caramel2:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionMenuTextAppearance
+          @attr name com.acetylene.caramel2:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3586,181 +3586,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.acetylene.caramel:actionMenuTextColor
+          @attr name com.acetylene.caramel2:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeBackground
+          @attr name com.acetylene.caramel2:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeCloseButtonStyle
+          @attr name com.acetylene.caramel2:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeCloseDrawable
+          @attr name com.acetylene.caramel2:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeCopyDrawable
+          @attr name com.acetylene.caramel2:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeCutDrawable
+          @attr name com.acetylene.caramel2:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeFindDrawable
+          @attr name com.acetylene.caramel2:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModePasteDrawable
+          @attr name com.acetylene.caramel2:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModePopupWindowStyle
+          @attr name com.acetylene.caramel2:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeSelectAllDrawable
+          @attr name com.acetylene.caramel2:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeShareDrawable
+          @attr name com.acetylene.caramel2:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeSplitBackground
+          @attr name com.acetylene.caramel2:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeStyle
+          @attr name com.acetylene.caramel2:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionModeWebSearchDrawable
+          @attr name com.acetylene.caramel2:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionOverflowButtonStyle
+          @attr name com.acetylene.caramel2:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionOverflowMenuStyle
+          @attr name com.acetylene.caramel2:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:activityChooserViewStyle
+          @attr name com.acetylene.caramel2:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:alertDialogButtonGroupStyle
+          @attr name com.acetylene.caramel2:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3770,27 +3770,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:alertDialogCenterButtons
+          @attr name com.acetylene.caramel2:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:alertDialogStyle
+          @attr name com.acetylene.caramel2:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:alertDialogTheme
+          @attr name com.acetylene.caramel2:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -3806,117 +3806,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:autoCompleteTextViewStyle
+          @attr name com.acetylene.caramel2:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:borderlessButtonStyle
+          @attr name com.acetylene.caramel2:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonBarButtonStyle
+          @attr name com.acetylene.caramel2:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonBarNegativeButtonStyle
+          @attr name com.acetylene.caramel2:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonBarNeutralButtonStyle
+          @attr name com.acetylene.caramel2:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonBarPositiveButtonStyle
+          @attr name com.acetylene.caramel2:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonBarStyle
+          @attr name com.acetylene.caramel2:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonStyle
+          @attr name com.acetylene.caramel2:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:buttonStyleSmall
+          @attr name com.acetylene.caramel2:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:checkboxStyle
+          @attr name com.acetylene.caramel2:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:checkedTextViewStyle
+          @attr name com.acetylene.caramel2:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3927,11 +3927,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorAccent
+          @attr name com.acetylene.caramel2:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3942,11 +3942,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorBackgroundFloating
+          @attr name com.acetylene.caramel2:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3957,11 +3957,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorButtonNormal
+          @attr name com.acetylene.caramel2:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3972,11 +3972,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorControlActivated
+          @attr name com.acetylene.caramel2:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -3987,11 +3987,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorControlHighlight
+          @attr name com.acetylene.caramel2:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4002,11 +4002,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorControlNormal
+          @attr name com.acetylene.caramel2:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4017,11 +4017,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorPrimary
+          @attr name com.acetylene.caramel2:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4032,11 +4032,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorPrimaryDark
+          @attr name com.acetylene.caramel2:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4047,21 +4047,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:colorSwitchThumbNormal
+          @attr name com.acetylene.caramel2:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:controlBackground
+          @attr name com.acetylene.caramel2:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4073,51 +4073,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:dialogPreferredPadding
+          @attr name com.acetylene.caramel2:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:dialogTheme
+          @attr name com.acetylene.caramel2:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:dividerHorizontal
+          @attr name com.acetylene.caramel2:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:dividerVertical
+          @attr name com.acetylene.caramel2:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:dropDownListViewStyle
+          @attr name com.acetylene.caramel2:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4129,21 +4129,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:dropdownListPreferredItemHeight
+          @attr name com.acetylene.caramel2:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:editTextBackground
+          @attr name com.acetylene.caramel2:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4151,81 +4151,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.acetylene.caramel:editTextColor
+          @attr name com.acetylene.caramel2:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:editTextStyle
+          @attr name com.acetylene.caramel2:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:homeAsUpIndicator
+          @attr name com.acetylene.caramel2:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:imageButtonStyle
+          @attr name com.acetylene.caramel2:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:listChoiceBackgroundIndicator
+          @attr name com.acetylene.caramel2:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:listDividerAlertDialog
+          @attr name com.acetylene.caramel2:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:listMenuViewStyle
+          @attr name com.acetylene.caramel2:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:listPopupWindowStyle
+          @attr name com.acetylene.caramel2:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4237,11 +4237,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:listPreferredItemHeight
+          @attr name com.acetylene.caramel2:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4253,11 +4253,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:listPreferredItemHeightLarge
+          @attr name com.acetylene.caramel2:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4269,11 +4269,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:listPreferredItemHeightSmall
+          @attr name com.acetylene.caramel2:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4285,11 +4285,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:listPreferredItemPaddingLeft
+          @attr name com.acetylene.caramel2:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4301,31 +4301,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:listPreferredItemPaddingRight
+          @attr name com.acetylene.caramel2:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:panelBackground
+          @attr name com.acetylene.caramel2:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:panelMenuListTheme
+          @attr name com.acetylene.caramel2:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4337,211 +4337,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:panelMenuListWidth
+          @attr name com.acetylene.caramel2:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:popupMenuStyle
+          @attr name com.acetylene.caramel2:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:popupWindowStyle
+          @attr name com.acetylene.caramel2:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:radioButtonStyle
+          @attr name com.acetylene.caramel2:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:ratingBarStyle
+          @attr name com.acetylene.caramel2:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:ratingBarStyleIndicator
+          @attr name com.acetylene.caramel2:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:ratingBarStyleSmall
+          @attr name com.acetylene.caramel2:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:searchViewStyle
+          @attr name com.acetylene.caramel2:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:seekBarStyle
+          @attr name com.acetylene.caramel2:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:selectableItemBackground
+          @attr name com.acetylene.caramel2:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:selectableItemBackgroundBorderless
+          @attr name com.acetylene.caramel2:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:spinnerDropDownItemStyle
+          @attr name com.acetylene.caramel2:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:spinnerStyle
+          @attr name com.acetylene.caramel2:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:switchStyle
+          @attr name com.acetylene.caramel2:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:textAppearanceLargePopupMenu
+          @attr name com.acetylene.caramel2:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:textAppearanceListItem
+          @attr name com.acetylene.caramel2:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:textAppearanceListItemSmall
+          @attr name com.acetylene.caramel2:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:textAppearancePopupMenuHeader
+          @attr name com.acetylene.caramel2:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:textAppearanceSearchResultSubtitle
+          @attr name com.acetylene.caramel2:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:textAppearanceSearchResultTitle
+          @attr name com.acetylene.caramel2:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:textAppearanceSmallPopupMenu
+          @attr name com.acetylene.caramel2:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4549,11 +4549,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.acetylene.caramel:textColorAlertDialogListItem
+          @attr name com.acetylene.caramel2:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4561,31 +4561,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.acetylene.caramel:textColorSearchUrl
+          @attr name com.acetylene.caramel2:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:toolbarNavigationButtonStyle
+          @attr name com.acetylene.caramel2:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:toolbarStyle
+          @attr name com.acetylene.caramel2:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4595,11 +4595,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowActionBar
+          @attr name com.acetylene.caramel2:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4609,11 +4609,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowActionBarOverlay
+          @attr name com.acetylene.caramel2:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4623,11 +4623,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowActionModeOverlay
+          @attr name com.acetylene.caramel2:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4642,11 +4642,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowFixedHeightMajor
+          @attr name com.acetylene.caramel2:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4661,11 +4661,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowFixedHeightMinor
+          @attr name com.acetylene.caramel2:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4680,11 +4680,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowFixedWidthMajor
+          @attr name com.acetylene.caramel2:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4699,11 +4699,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowFixedWidthMinor
+          @attr name com.acetylene.caramel2:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4718,11 +4718,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowMinWidthMajor
+          @attr name com.acetylene.caramel2:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4737,11 +4737,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowMinWidthMinor
+          @attr name com.acetylene.caramel2:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4751,7 +4751,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:windowNoTitle
+          @attr name com.acetylene.caramel2:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -4760,7 +4760,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.acetylene.caramel:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.acetylene.caramel2:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -4768,7 +4768,7 @@ containing a value of this type.
             0x7f01009c
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -4778,7 +4778,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:allowStacking
+          @attr name com.acetylene.caramel2:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a ColorStateListItem.
@@ -4787,7 +4787,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.acetylene.caramel:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.acetylene.caramel2:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -4799,7 +4799,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f01009d
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -4809,7 +4809,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:alpha
+          @attr name com.acetylene.caramel2:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -4831,8 +4831,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.acetylene.caramel:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.acetylene.caramel:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.acetylene.caramel2:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.acetylene.caramel2:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -4848,7 +4848,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -4859,11 +4859,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:buttonTint
+          @attr name com.acetylene.caramel2:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -4879,7 +4879,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:buttonTintMode
+          @attr name com.acetylene.caramel2:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -4888,14 +4888,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.acetylene.caramel:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.acetylene.caramel:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.acetylene.caramel:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.acetylene.caramel:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.acetylene.caramel:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.acetylene.caramel:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.acetylene.caramel:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.acetylene.caramel:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.acetylene.caramel2:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.acetylene.caramel2:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.acetylene.caramel2:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.acetylene.caramel2:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.acetylene.caramel2:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.acetylene.caramel2:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.acetylene.caramel2:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.acetylene.caramel2:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -4911,7 +4911,7 @@ containing a value of this type.
             0x7f0100a4, 0x7f0100a5, 0x7f0100a6, 0x7f0100a7
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4923,11 +4923,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:arrowHeadLength
+          @attr name com.acetylene.caramel2:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4939,11 +4939,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:arrowShaftLength
+          @attr name com.acetylene.caramel2:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4955,11 +4955,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:barLength
+          @attr name com.acetylene.caramel2:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#color}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4970,11 +4970,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:color
+          @attr name com.acetylene.caramel2:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4986,11 +4986,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:drawableSize
+          @attr name com.acetylene.caramel2:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5002,11 +5002,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:gapBetweenBars
+          @attr name com.acetylene.caramel2:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5016,11 +5016,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:spinBars
+          @attr name com.acetylene.caramel2:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5032,7 +5032,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:thickness
+          @attr name com.acetylene.caramel2:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -5046,10 +5046,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.acetylene.caramel:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.acetylene.caramel:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.acetylene.caramel:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.acetylene.caramel:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.acetylene.caramel2:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.acetylene.caramel2:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.acetylene.caramel2:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.acetylene.caramel2:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -5097,17 +5097,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:divider
+          @attr name com.acetylene.caramel2:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -5119,11 +5119,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:dividerPadding
+          @attr name com.acetylene.caramel2:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -5133,11 +5133,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:measureWithLargestChild
+          @attr name com.acetylene.caramel2:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -5152,7 +5152,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:showDividers
+          @attr name com.acetylene.caramel2:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -5291,9 +5291,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.acetylene.caramel:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.acetylene.caramel:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.acetylene.caramel:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.acetylene.caramel2:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.acetylene.caramel2:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.acetylene.caramel2:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -5307,7 +5307,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.acetylene.caramel:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.acetylene.caramel2:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -5335,17 +5335,17 @@ containing a value of this type.
             0x7f0100ae
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:actionLayout
+          @attr name com.acetylene.caramel2:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5355,11 +5355,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:actionProviderClass
+          @attr name com.acetylene.caramel2:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5369,7 +5369,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:actionViewClass
+          @attr name com.acetylene.caramel2:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -5451,7 +5451,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5467,7 +5467,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:showAsAction
+          @attr name com.acetylene.caramel2:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -5483,8 +5483,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.acetylene.caramel:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.acetylene.caramel:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.acetylene.caramel2:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.acetylene.caramel2:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -5544,7 +5544,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -5554,17 +5554,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:preserveIconSpacing
+          @attr name com.acetylene.caramel2:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:subMenuArrow
+          @attr name com.acetylene.caramel2:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a PopupWindow.
@@ -5575,7 +5575,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.acetylene.caramel:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.acetylene.caramel2:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -5597,7 +5597,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -5607,7 +5607,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:overlapAnchor
+          @attr name com.acetylene.caramel2:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -5616,7 +5616,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.acetylene.caramel:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.acetylene.caramel2:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -5624,7 +5624,7 @@ containing a value of this type.
             0x7f0100b2
         };
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -5634,7 +5634,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:state_above_anchor
+          @attr name com.acetylene.caramel2:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -5647,19 +5647,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.acetylene.caramel:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.acetylene.caramel:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.acetylene.caramel:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.acetylene.caramel:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.acetylene.caramel:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.acetylene.caramel:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.acetylene.caramel:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.acetylene.caramel:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.acetylene.caramel:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.acetylene.caramel:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.acetylene.caramel:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.acetylene.caramel:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.acetylene.caramel:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.acetylene.caramel2:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.acetylene.caramel2:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.acetylene.caramel2:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.acetylene.caramel2:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.acetylene.caramel2:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.acetylene.caramel2:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.acetylene.caramel2:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.acetylene.caramel2:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.acetylene.caramel2:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.acetylene.caramel2:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.acetylene.caramel2:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.acetylene.caramel2:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.acetylene.caramel2:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -5711,27 +5711,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:closeIcon
+          @attr name com.acetylene.caramel2:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:commitIcon
+          @attr name com.acetylene.caramel2:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5741,21 +5741,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:defaultQueryHint
+          @attr name com.acetylene.caramel2:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:goIcon
+          @attr name com.acetylene.caramel2:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5765,31 +5765,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:iconifiedByDefault
+          @attr name com.acetylene.caramel2:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:layout
+          @attr name com.acetylene.caramel2:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:queryBackground
+          @attr name com.acetylene.caramel2:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5799,57 +5799,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:queryHint
+          @attr name com.acetylene.caramel2:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:searchHintIcon
+          @attr name com.acetylene.caramel2:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:searchIcon
+          @attr name com.acetylene.caramel2:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:submitBackground
+          @attr name com.acetylene.caramel2:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:suggestionRowLayout
+          @attr name com.acetylene.caramel2:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:voiceIcon
+          @attr name com.acetylene.caramel2:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -5862,7 +5862,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.acetylene.caramel:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.acetylene.caramel2:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -5899,13 +5899,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:popupTheme
+          @attr name com.acetylene.caramel2:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -5917,17 +5917,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.acetylene.caramel:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.acetylene.caramel:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.acetylene.caramel:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.acetylene.caramel:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.acetylene.caramel:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.acetylene.caramel:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.acetylene.caramel:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.acetylene.caramel:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.acetylene.caramel:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.acetylene.caramel:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.acetylene.caramel:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.acetylene.caramel2:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.acetylene.caramel2:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.acetylene.caramel2:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.acetylene.caramel2:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.acetylene.caramel2:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.acetylene.caramel2:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.acetylene.caramel2:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.acetylene.caramel2:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.acetylene.caramel2:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.acetylene.caramel2:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.acetylene.caramel2:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -5969,7 +5969,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5979,11 +5979,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:showText
+          @attr name com.acetylene.caramel2:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5993,11 +5993,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:splitTrack
+          @attr name com.acetylene.caramel2:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6009,11 +6009,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:switchMinWidth
+          @attr name com.acetylene.caramel2:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6025,21 +6025,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:switchPadding
+          @attr name com.acetylene.caramel2:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:switchTextAppearance
+          @attr name com.acetylene.caramel2:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6051,11 +6051,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:thumbTextPadding
+          @attr name com.acetylene.caramel2:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6066,11 +6066,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:thumbTint
+          @attr name com.acetylene.caramel2:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6087,21 +6087,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:thumbTintMode
+          @attr name com.acetylene.caramel2:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#track}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:track
+          @attr name com.acetylene.caramel2:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6112,11 +6112,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:trackTint
+          @attr name com.acetylene.caramel2:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6133,7 +6133,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:trackTintMode
+          @attr name com.acetylene.caramel2:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TextAppearance.
@@ -6150,7 +6150,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.acetylene.caramel:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.acetylene.caramel2:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -6216,14 +6216,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.acetylene.caramel:textAllCaps
+          @attr name com.acetylene.caramel2:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a Toolbar.
@@ -6234,33 +6234,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.acetylene.caramel:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.acetylene.caramel:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.acetylene.caramel:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.acetylene.caramel:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.acetylene.caramel:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.acetylene.caramel:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.acetylene.caramel:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.acetylene.caramel:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.acetylene.caramel:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.acetylene.caramel:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.acetylene.caramel:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.acetylene.caramel:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.acetylene.caramel:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.acetylene.caramel:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.acetylene.caramel:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.acetylene.caramel:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.acetylene.caramel:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.acetylene.caramel:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.acetylene.caramel:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.acetylene.caramel:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.acetylene.caramel:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.acetylene.caramel:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.acetylene.caramel:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.acetylene.caramel:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.acetylene.caramel:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.acetylene.caramel:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.acetylene.caramel:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.acetylene.caramel2:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.acetylene.caramel2:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.acetylene.caramel2:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.acetylene.caramel2:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.acetylene.caramel2:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.acetylene.caramel2:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.acetylene.caramel2:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.acetylene.caramel2:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.acetylene.caramel2:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.acetylene.caramel2:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.acetylene.caramel2:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.acetylene.caramel2:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.acetylene.caramel2:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.acetylene.caramel2:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.acetylene.caramel2:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.acetylene.caramel2:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.acetylene.caramel2:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.acetylene.caramel2:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.acetylene.caramel2:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.acetylene.caramel2:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.acetylene.caramel2:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.acetylene.caramel2:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.acetylene.caramel2:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.acetylene.caramel2:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.acetylene.caramel2:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.acetylene.caramel2:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.acetylene.caramel2:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6315,7 +6315,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6328,11 +6328,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:buttonGravity
+          @attr name com.acetylene.caramel2:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6342,21 +6342,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:collapseContentDescription
+          @attr name com.acetylene.caramel2:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:collapseIcon
+          @attr name com.acetylene.caramel2:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6368,11 +6368,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetEnd
+          @attr name com.acetylene.caramel2:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6384,11 +6384,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetEndWithActions
+          @attr name com.acetylene.caramel2:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6400,11 +6400,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetLeft
+          @attr name com.acetylene.caramel2:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6416,11 +6416,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetRight
+          @attr name com.acetylene.caramel2:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6432,11 +6432,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetStart
+          @attr name com.acetylene.caramel2:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6448,21 +6448,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:contentInsetStartWithNavigation
+          @attr name com.acetylene.caramel2:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:logo
+          @attr name com.acetylene.caramel2:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6472,11 +6472,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:logoDescription
+          @attr name com.acetylene.caramel2:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6488,11 +6488,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:maxButtonHeight
+          @attr name com.acetylene.caramel2:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6502,31 +6502,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:navigationContentDescription
+          @attr name com.acetylene.caramel2:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:navigationIcon
+          @attr name com.acetylene.caramel2:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:popupTheme
+          @attr name com.acetylene.caramel2:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6536,21 +6536,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:subtitle
+          @attr name com.acetylene.caramel2:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:subtitleTextAppearance
+          @attr name com.acetylene.caramel2:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6561,11 +6561,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:subtitleTextColor
+          @attr name com.acetylene.caramel2:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#title}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6575,11 +6575,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:title
+          @attr name com.acetylene.caramel2:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6591,11 +6591,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:titleMargin
+          @attr name com.acetylene.caramel2:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6607,11 +6607,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:titleMarginBottom
+          @attr name com.acetylene.caramel2:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6623,11 +6623,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:titleMarginEnd
+          @attr name com.acetylene.caramel2:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6639,11 +6639,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:titleMarginStart
+          @attr name com.acetylene.caramel2:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6655,11 +6655,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:titleMarginTop
+          @attr name com.acetylene.caramel2:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6671,21 +6671,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:titleMargins
+          @attr name com.acetylene.caramel2:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:titleTextAppearance
+          @attr name com.acetylene.caramel2:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6696,7 +6696,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:titleTextColor
+          @attr name com.acetylene.caramel2:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -6707,9 +6707,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.acetylene.caramel:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.acetylene.caramel:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.acetylene.caramel:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.acetylene.caramel2:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.acetylene.caramel2:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.acetylene.caramel2:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6734,7 +6734,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6746,11 +6746,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:paddingEnd
+          @attr name com.acetylene.caramel2:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6762,17 +6762,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:paddingStart
+          @attr name com.acetylene.caramel2:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.acetylene.caramel:theme
+          @attr name com.acetylene.caramel2:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6782,8 +6782,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.acetylene.caramel:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.acetylene.caramel:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.acetylene.caramel2:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.acetylene.caramel2:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -6799,7 +6799,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6810,11 +6810,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.acetylene.caramel:backgroundTint
+          @attr name com.acetylene.caramel2:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.acetylene.caramel.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.acetylene.caramel2.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6830,7 +6830,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.acetylene.caramel:backgroundTintMode
+          @attr name com.acetylene.caramel2:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

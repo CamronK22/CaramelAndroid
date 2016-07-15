@@ -1,10 +1,2 @@
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\R$styleable$override.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\R$menu$override.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\R$layout$override.class
 CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\R$id$override.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\R$style$override.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\R$integer$override.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\R$string$override.class
-CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\MainActivity$override.class
+CHANGED,C:\Users\camro\AndroidStudioProjects\Caramel\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\acetylene\caramel\BuildConfig$override.class
