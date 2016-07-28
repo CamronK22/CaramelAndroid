@@ -1,0 +1,58 @@
+/* MD Orange = #FF5722 */
+
+body {
+    background-color: #FAFAFA;
+}
+
+#header {
+    color: orange;
+}
+
+#toolbar {
+    width: 100%;
+    color: #FF5722;
+}
+
+#entrydiv {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: calc(100% - 126px);
+    margin-left: 18px;
+}
+
+#entry {
+    font-size: x-large;
+}
+
+#submit {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 24px;
+}
+
+#loading {
+    visibility: hidden;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 24px;
+    width: 56px;
+    height: 56px;
+}
+
+#command {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    color: #009688;
+    margin-top: 100px;
+}
+
+#output {
+    font-size: x-large;
+    padding-left: 30%;
+    width: 40%;
+}

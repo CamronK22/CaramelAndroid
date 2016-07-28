@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <link rel="stylesheet" type="text/css" href="material.min.css">
+        <script src="./material.min.js"></script>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    </head>
+        
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <!-- Title -->
+                <span class="mdl-layout-title">Caramel Wi-Fi Bridge</span>
+                <!-- Add spacer, to align navigation to the right -->
+                <div class="mdl-layout-spacer"></div>
+            </div>
+        </header>
+    
+        <main class="mdl-layout__content">
+            <div class="page-content">
+                <h2 id="command"></h2> 
+                <p id="output"></p>
+                
+                <form action="#" id="entryform">
+                    <div id="entrydiv" class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                        <input class="mdl-textfield__input" type="text" id="entry">
+                        <label class="mdl-textfield__label" for="entry" id="entrylabel">Enter command here</label>
+                    </div>
+                </form>
+    
+                <br>
+    
+                <button 
+                    class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored" 
+                    type="submit"
+                    id="submit" 
+                    onclick="send()"
+                    ><i class="material-icons">send</i></button>
+                    
+                <div id="loading" class="mdl-spinner mdl-spinner--single-color mdl-js-spinner is-active"></div>
+            </div>
+        </main>
+    </div>
+    
+    <script>
+    var loading = false;;
+        
+    function send() {
+        if (loading) return;
+        loading = true;
+        document.getElementById("command").textContent = document.getElementById("entry").value;
+        document.getElementById("submit").disabled = true;
+        document.getElementById("loading").style.visibility = "visible";
+        document.getElementById("output").innerHTML = "";
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (xhttp.status == 200) {
+                loading = false;
+                document.getElementById("submit").disabled = false;
+                document.getElementById("loading").style.visibility = "hidden";
+                document.getElementById("output").innerHTML = xhttp.responseText;
+            }
+        };
+        xhttp.open("POST", document.getElementById("entry").value, true);
+        xhttp.send();
+    }
+    
+    document.getElementById("entry")
+    .addEventListener("keyup", function(event) {
+        event.preventDefault();
+        if (event.keyCode == 13) {
+            document.getElementById("submit").click();
+        }
+    });
+    </script>
+</html>

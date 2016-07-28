@@ -3,22 +3,25 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/menu">
 
-    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item android:id="@+id/server"
+        android:icon="@drawable/ic_speaker_phone_white_24dp"
+        android:title="Web Server"
+        app:showAsAction="ifRoom"/>
+
     <item android:id="@+id/edit"
         android:icon="@drawable/ic_devices_other_white_24dp"
         android:title="Edit Name"
-        app:showAsAction="always"/>
+        app:showAsAction="ifRoom"/>
 
-    <!-- Settings, should always be in the overflow -->
     <item android:id="@+id/bluetooth"
         android:icon="@drawable/ic_settings_bluetooth_white_24dp"
         android:title="Bluetooth Settings"
-        app:showAsAction="always"/>
+        app:showAsAction="ifRoom"/>
 
     <!-- Chewie :( -->
     <item android:id="@+id/paw"
         android:icon="@drawable/ic_pets_white_24dp"
-        android:title="Born to drool"
-        app:showAsAction="always"/>
+        android:title="Chewie"
+        app:showAsAction="ifRoom"/>
 
 </menu>

@@ -11,13 +11,13 @@
                     "endOffset": 159
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 233,
                         "endColumn": 108,
-                        "endOffset": 159
+                        "endOffset": 337
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 267
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 164,
+                        "startOffset": 342,
                         "endColumn": 107,
-                        "endOffset": 267
+                        "endOffset": 445
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 390
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 272,
+                        "startOffset": 450,
                         "endColumn": 122,
-                        "endOffset": 390
+                        "endOffset": 568
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 502
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 395,
+                        "startOffset": 573,
                         "endColumn": 111,
-                        "endOffset": 502
+                        "endOffset": 680
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 608
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 507,
+                        "startOffset": 685,
                         "endColumn": 105,
-                        "endOffset": 608
+                        "endOffset": 786
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 702
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 613,
+                        "startOffset": 791,
                         "endColumn": 93,
-                        "endOffset": 702
+                        "endOffset": 880
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 807
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 707,
+                        "startOffset": 885,
                         "endColumn": 104,
-                        "endOffset": 807
+                        "endOffset": 985
                     }
                 }
             },
@@ -140,17 +140,17 @@
                     "startLine": 9,
                     "startColumn": 4,
                     "startOffset": 812,
-                    "endColumn": 128,
-                    "endOffset": 936
+                    "endColumn": 129,
+                    "endOffset": 937
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 812,
-                        "endColumn": 128,
-                        "endOffset": 936
+                        "startOffset": 990,
+                        "endColumn": 129,
+                        "endOffset": 1115
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 941,
+                    "startOffset": 942,
                     "endColumn": 77,
-                    "endOffset": 1014
+                    "endOffset": 1015
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 941,
+                        "startOffset": 1120,
                         "endColumn": 77,
-                        "endOffset": 1014
+                        "endOffset": 1193
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1019,
+                    "startOffset": 1020,
                     "endColumn": 77,
-                    "endOffset": 1092
+                    "endOffset": 1093
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1019,
+                        "startOffset": 1198,
                         "endColumn": 77,
-                        "endOffset": 1092
+                        "endOffset": 1271
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1097,
+                    "startOffset": 1098,
                     "endColumn": 86,
-                    "endOffset": 1179
+                    "endOffset": 1180
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1097,
+                        "startOffset": 1276,
                         "endColumn": 86,
-                        "endOffset": 1179
+                        "endOffset": 1358
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1184,
+                    "startOffset": 1185,
                     "endColumn": 109,
-                    "endOffset": 1289
+                    "endOffset": 1290
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1184,
+                        "startOffset": 1363,
                         "endColumn": 109,
-                        "endOffset": 1289
+                        "endOffset": 1468
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1294,
+                    "startOffset": 1295,
                     "endColumn": 115,
-                    "endOffset": 1405
+                    "endOffset": 1406
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1294,
+                        "startOffset": 1473,
                         "endColumn": 115,
-                        "endOffset": 1405
+                        "endOffset": 1584
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1410,
+                    "startOffset": 1411,
                     "endColumn": 106,
-                    "endOffset": 1512
+                    "endOffset": 1513
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1410,
+                        "startOffset": 1589,
                         "endColumn": 106,
-                        "endOffset": 1512
+                        "endOffset": 1691
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1517,
+                    "startOffset": 1518,
                     "endColumn": 109,
-                    "endOffset": 1622
+                    "endOffset": 1623
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1517,
+                        "startOffset": 1696,
                         "endColumn": 109,
-                        "endOffset": 1622
+                        "endOffset": 1801
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1627,
+                    "startOffset": 1628,
                     "endColumn": 105,
-                    "endOffset": 1728
+                    "endOffset": 1729
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1627,
+                        "startOffset": 1806,
                         "endColumn": 105,
-                        "endOffset": 1728
+                        "endOffset": 1907
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1733,
-                    "endColumn": 112,
-                    "endOffset": 1841
+                    "startOffset": 1734,
+                    "endColumn": 109,
+                    "endOffset": 1839
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1733,
-                        "endColumn": 112,
-                        "endOffset": 1841
+                        "startOffset": 1912,
+                        "endColumn": 109,
+                        "endOffset": 2017
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1846,
-                    "endColumn": 127,
-                    "endOffset": 1969
+                    "startOffset": 1844,
+                    "endColumn": 124,
+                    "endOffset": 1964
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1846,
-                        "endColumn": 127,
-                        "endOffset": 1969
+                        "startOffset": 2022,
+                        "endColumn": 124,
+                        "endOffset": 2142
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1974,
+                    "startOffset": 1969,
                     "endColumn": 104,
-                    "endOffset": 2074
+                    "endOffset": 2069
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1974,
+                        "startOffset": 2147,
                         "endColumn": 104,
-                        "endOffset": 2074
+                        "endOffset": 2247
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2079,
+                    "startOffset": 2074,
                     "endColumn": 100,
-                    "endOffset": 2175
+                    "endOffset": 2170
                 },
                 "from": {
-                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "file": "C:\\Users\\camro\\AndroidStudioProjects\\Caramel\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 2079,
+                        "startOffset": 2252,
                         "endColumn": 100,
-                        "endOffset": 2175
+                        "endOffset": 2348
                     }
                 }
             }
